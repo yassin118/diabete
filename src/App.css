@@ -1,0 +1,59 @@
+.diabete1 {
+  color: aquamarine;
+  margin-left:2%;
+
+}
+.diab1parag {
+  width: 60%;
+  margin-left:1%;
+
+  
+
+}
+
+.diabete2 {
+  color: aquamarine;
+  margin-left:2%;
+
+}
+.diab2parag {
+  width: 60%;
+  margin-bottom: 80px;
+  margin-left:1%;
+
+}
+.video {
+  margin-left: 30%;
+
+}
+.contact {
+  width: 50% ;
+  margin-top: 70px  ;
+  color: white;
+  justify-content: space-evenly;
+  height:4em;
+  font-size:xx-large;
+
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  
+}
+.Titre {
+  color: rgb(24, 5, 110);
+  margin-left:2%;
+
+
+}
+.image {
+  margin-left: 550px;
+  width: 30%;
+ 
+}
+.introduc tion {
+  margin-left: 2%;
+}
